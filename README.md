@@ -6,4 +6,6 @@ Meu nome é Jamile Ioli
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
- ### Você entrar em contato comigo
+ ### Você entrar em contato comigo 📫
+
+ jamilecrisiolial786@gmail.com
